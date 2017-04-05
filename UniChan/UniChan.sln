@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniChan", "UniChan.csproj", "{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniChan.Editor", "UniChan.Editor.csproj", "{458C4125-6A3D-F784-813D-45AF1E6B4CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458C4125-6A3D-F784-813D-45AF1E6B4CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458C4125-6A3D-F784-813D-45AF1E6B4CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458C4125-6A3D-F784-813D-45AF1E6B4CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458C4125-6A3D-F784-813D-45AF1E6B4CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
