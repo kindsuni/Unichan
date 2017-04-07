@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{458C4125-6A3D-F784-813D-45AF1E6B4CC9}</ProjectGuid>
+    <ProjectGuid>{F09BE07E-D270-3AB1-359C-9B92526656AA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -114,9 +114,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="UniChan.csproj">
-      <Project>{67D29973-CBFF-270F-5379-B4E0EB5D4EF1}</Project>
-      <Name>UniChan</Name>
+    <ProjectReference Include="Unichan.csproj">
+      <Project>{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}</Project>
+      <Name>Unichan</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
