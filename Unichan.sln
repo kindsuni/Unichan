@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unichan", "Unichan.csproj", "{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unichan.Editor", "Unichan.Editor.csproj", "{F09BE07E-D270-3AB1-359C-9B92526656AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60628F40-CCF4-0AAB-E0DE-B1CBC49C5B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09BE07E-D270-3AB1-359C-9B92526656AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09BE07E-D270-3AB1-359C-9B92526656AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09BE07E-D270-3AB1-359C-9B92526656AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09BE07E-D270-3AB1-359C-9B92526656AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
